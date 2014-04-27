@@ -1,4 +1,3 @@
 FlickrApp
-
-An Android Client that hits the Flickr Api.
 =========
+An Android Client that hits the Flickr Api.
